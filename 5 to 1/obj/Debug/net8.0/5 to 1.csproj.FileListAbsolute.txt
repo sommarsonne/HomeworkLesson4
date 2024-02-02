@@ -1,0 +1,14 @@
+M:\Repos\Homework_Lesson 4 #2\5 to 1\bin\Debug\net8.0\5 to 1.exe
+M:\Repos\Homework_Lesson 4 #2\5 to 1\bin\Debug\net8.0\5 to 1.deps.json
+M:\Repos\Homework_Lesson 4 #2\5 to 1\bin\Debug\net8.0\5 to 1.runtimeconfig.json
+M:\Repos\Homework_Lesson 4 #2\5 to 1\bin\Debug\net8.0\5 to 1.dll
+M:\Repos\Homework_Lesson 4 #2\5 to 1\bin\Debug\net8.0\5 to 1.pdb
+M:\Repos\Homework_Lesson 4 #2\5 to 1\obj\Debug\net8.0\5 to 1.GeneratedMSBuildEditorConfig.editorconfig
+M:\Repos\Homework_Lesson 4 #2\5 to 1\obj\Debug\net8.0\5 to 1.AssemblyInfoInputs.cache
+M:\Repos\Homework_Lesson 4 #2\5 to 1\obj\Debug\net8.0\5 to 1.AssemblyInfo.cs
+M:\Repos\Homework_Lesson 4 #2\5 to 1\obj\Debug\net8.0\5 to 1.csproj.CoreCompileInputs.cache
+M:\Repos\Homework_Lesson 4 #2\5 to 1\obj\Debug\net8.0\5 to 1.dll
+M:\Repos\Homework_Lesson 4 #2\5 to 1\obj\Debug\net8.0\refint\5 to 1.dll
+M:\Repos\Homework_Lesson 4 #2\5 to 1\obj\Debug\net8.0\5 to 1.pdb
+M:\Repos\Homework_Lesson 4 #2\5 to 1\obj\Debug\net8.0\5 to 1.genruntimeconfig.cache
+M:\Repos\Homework_Lesson 4 #2\5 to 1\obj\Debug\net8.0\ref\5 to 1.dll
