@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "M:\\Repos\\Homework_Lesson4\\1 to 99 for\\1 to 99 for.csproj",
+      "projectUniqueName": "M:\\Repos\\Homework_Lesson 4 #2\\1 to 99 for\\1 to 99 for.csproj",
       "projectName": "1 to 99 for",
-      "projectPath": "M:\\Repos\\Homework_Lesson4\\1 to 99 for\\1 to 99 for.csproj",
+      "projectPath": "M:\\Repos\\Homework_Lesson 4 #2\\1 to 99 for\\1 to 99 for.csproj",
       "packagesPath": "C:\\Users\\cookm\\.nuget\\packages\\",
-      "outputPath": "M:\\Repos\\Homework_Lesson4\\1 to 99 for\\obj\\",
+      "outputPath": "M:\\Repos\\Homework_Lesson 4 #2\\1 to 99 for\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

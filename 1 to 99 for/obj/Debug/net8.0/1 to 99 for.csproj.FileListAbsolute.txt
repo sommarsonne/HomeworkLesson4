@@ -12,3 +12,17 @@ M:\Repos\Homework_Lesson4\1 to 99 for\obj\Debug\net8.0\refint\1 to 99 for.dll
 M:\Repos\Homework_Lesson4\1 to 99 for\obj\Debug\net8.0\1 to 99 for.pdb
 M:\Repos\Homework_Lesson4\1 to 99 for\obj\Debug\net8.0\1 to 99 for.genruntimeconfig.cache
 M:\Repos\Homework_Lesson4\1 to 99 for\obj\Debug\net8.0\ref\1 to 99 for.dll
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\bin\Debug\net8.0\1 to 99 for.exe
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\bin\Debug\net8.0\1 to 99 for.deps.json
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\bin\Debug\net8.0\1 to 99 for.runtimeconfig.json
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\bin\Debug\net8.0\1 to 99 for.dll
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\bin\Debug\net8.0\1 to 99 for.pdb
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\obj\Debug\net8.0\1 to 99 for.GeneratedMSBuildEditorConfig.editorconfig
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\obj\Debug\net8.0\1 to 99 for.AssemblyInfoInputs.cache
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\obj\Debug\net8.0\1 to 99 for.AssemblyInfo.cs
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\obj\Debug\net8.0\1 to 99 for.csproj.CoreCompileInputs.cache
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\obj\Debug\net8.0\1 to 99 for.dll
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\obj\Debug\net8.0\refint\1 to 99 for.dll
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\obj\Debug\net8.0\1 to 99 for.pdb
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\obj\Debug\net8.0\1 to 99 for.genruntimeconfig.cache
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\obj\Debug\net8.0\ref\1 to 99 for.dll
