@@ -1,0 +1,14 @@
+M:\Repos\Homework_Lesson 4 #2\1 to UserInput\bin\Debug\net8.0\1 to UserInput.exe
+M:\Repos\Homework_Lesson 4 #2\1 to UserInput\bin\Debug\net8.0\1 to UserInput.deps.json
+M:\Repos\Homework_Lesson 4 #2\1 to UserInput\bin\Debug\net8.0\1 to UserInput.runtimeconfig.json
+M:\Repos\Homework_Lesson 4 #2\1 to UserInput\bin\Debug\net8.0\1 to UserInput.dll
+M:\Repos\Homework_Lesson 4 #2\1 to UserInput\bin\Debug\net8.0\1 to UserInput.pdb
+M:\Repos\Homework_Lesson 4 #2\1 to UserInput\obj\Debug\net8.0\1 to UserInput.GeneratedMSBuildEditorConfig.editorconfig
+M:\Repos\Homework_Lesson 4 #2\1 to UserInput\obj\Debug\net8.0\1 to UserInput.AssemblyInfoInputs.cache
+M:\Repos\Homework_Lesson 4 #2\1 to UserInput\obj\Debug\net8.0\1 to UserInput.AssemblyInfo.cs
+M:\Repos\Homework_Lesson 4 #2\1 to UserInput\obj\Debug\net8.0\1 to UserInput.csproj.CoreCompileInputs.cache
+M:\Repos\Homework_Lesson 4 #2\1 to UserInput\obj\Debug\net8.0\1 to UserInput.dll
+M:\Repos\Homework_Lesson 4 #2\1 to UserInput\obj\Debug\net8.0\refint\1 to UserInput.dll
+M:\Repos\Homework_Lesson 4 #2\1 to UserInput\obj\Debug\net8.0\1 to UserInput.pdb
+M:\Repos\Homework_Lesson 4 #2\1 to UserInput\obj\Debug\net8.0\1 to UserInput.genruntimeconfig.cache
+M:\Repos\Homework_Lesson 4 #2\1 to UserInput\obj\Debug\net8.0\ref\1 to UserInput.dll
