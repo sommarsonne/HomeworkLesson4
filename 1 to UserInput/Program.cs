@@ -4,36 +4,20 @@
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Введите число");
-            //string input = Console.ReadLine();
+            Console.WriteLine("Введите число");
+            int rangeLimit = int.Parse(Console.ReadLine());
 
-            int i = 1;
-            int b = 30;
-            
+            int start = 0;
+            int rangeSum = 0;
 
-            while (true)
+
+            while (start != rangeLimit)
             {
-                
-                int v = i + i++;
-                if (v < b)
-                    Console.WriteLine(v);
-
-                else
-                    break;
-
-                
+                start++;
+                rangeSum = rangeSum + start;
             }
 
-            
-         
-
-
-
-
-
-
-
-
+            Console.WriteLine($"Сумма чисел в диапазоне от 1 до {rangeLimit} равна " +  rangeSum);
         }
     }
 }
