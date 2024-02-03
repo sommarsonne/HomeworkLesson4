@@ -13,7 +13,7 @@ namespace _7_14_21
             {
                 a += 7;
                 
-                Console.WriteLine($"{a}");
+                Console.Write($"{a} ");
 
             }
         } 
