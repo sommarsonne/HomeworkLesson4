@@ -1,0 +1,14 @@
+M:\Repos\Homework_Lesson 4 #2\Two arrays\bin\Debug\net8.0\Two arrays.exe
+M:\Repos\Homework_Lesson 4 #2\Two arrays\bin\Debug\net8.0\Two arrays.deps.json
+M:\Repos\Homework_Lesson 4 #2\Two arrays\bin\Debug\net8.0\Two arrays.runtimeconfig.json
+M:\Repos\Homework_Lesson 4 #2\Two arrays\bin\Debug\net8.0\Two arrays.dll
+M:\Repos\Homework_Lesson 4 #2\Two arrays\bin\Debug\net8.0\Two arrays.pdb
+M:\Repos\Homework_Lesson 4 #2\Two arrays\obj\Debug\net8.0\Two arrays.GeneratedMSBuildEditorConfig.editorconfig
+M:\Repos\Homework_Lesson 4 #2\Two arrays\obj\Debug\net8.0\Two arrays.AssemblyInfoInputs.cache
+M:\Repos\Homework_Lesson 4 #2\Two arrays\obj\Debug\net8.0\Two arrays.AssemblyInfo.cs
+M:\Repos\Homework_Lesson 4 #2\Two arrays\obj\Debug\net8.0\Two arrays.csproj.CoreCompileInputs.cache
+M:\Repos\Homework_Lesson 4 #2\Two arrays\obj\Debug\net8.0\Two arrays.dll
+M:\Repos\Homework_Lesson 4 #2\Two arrays\obj\Debug\net8.0\refint\Two arrays.dll
+M:\Repos\Homework_Lesson 4 #2\Two arrays\obj\Debug\net8.0\Two arrays.pdb
+M:\Repos\Homework_Lesson 4 #2\Two arrays\obj\Debug\net8.0\Two arrays.genruntimeconfig.cache
+M:\Repos\Homework_Lesson 4 #2\Two arrays\obj\Debug\net8.0\ref\Two arrays.dll
