@@ -26,3 +26,4 @@ M:\Repos\Homework_Lesson 4 #2\1 to 99 for\obj\Debug\net8.0\refint\1 to 99 for.dl
 M:\Repos\Homework_Lesson 4 #2\1 to 99 for\obj\Debug\net8.0\1 to 99 for.pdb
 M:\Repos\Homework_Lesson 4 #2\1 to 99 for\obj\Debug\net8.0\1 to 99 for.genruntimeconfig.cache
 M:\Repos\Homework_Lesson 4 #2\1 to 99 for\obj\Debug\net8.0\ref\1 to 99 for.dll
+M:\Repos\Homework_Lesson 4 #2\1 to 99 for\obj\Debug\net8.0\1 to 99 for.sourcelink.json
