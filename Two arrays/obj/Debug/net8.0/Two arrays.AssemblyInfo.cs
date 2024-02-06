@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Two arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17ac29b6032d89fcddd1f9f927a51ab20ae65db3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b763cf07d037783768102ca65b241a15a643d4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Two arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Two arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

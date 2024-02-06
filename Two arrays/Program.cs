@@ -22,24 +22,24 @@ namespace Two_arrays
                 Console.Write($"{num2} ");
             }
 
-            int sum1 = array1.Sum();
-            int sum2 = array2.Sum();
+            int arraySum1 = array1.Sum();
+            int arraySum2 = array2.Sum();
 
-            int array1length = array1.Length;
-            int array2length = array2.Length;
+            int array1Length = array1.Length;
+            int array2Length = array2.Length;
 
-            double am1 = sum1 / array1length;
-            double am2 = sum2 / array2length;
+            double ariphmeticMean1 = arraySum1 / array1Length;
+            double ariphmeticMean2 = arraySum2 / array2Length;
 
             Console.WriteLine();
             
-            if (am1 > am2)
+            if (ariphmeticMean1 > ariphmeticMean2)
                 Console.WriteLine("Среднее арифметическое первого массива больше");
             
-            else if (am2 > am1)
+            else if (ariphmeticMean2 > ariphmeticMean1)
                 Console.WriteLine("Среднее арифметическое второго массива больше");
             
-            else if (am1 == am2) 
+            else if (ariphmeticMean1 == ariphmeticMean2) 
                 Console.WriteLine("Среднее арифметическое массивов равны");
         }
     }
